@@ -91,6 +91,8 @@ Electron 版本由 [@hawtim](https://github.com/hawtim) 和 [@qier222](https://g
 7. 点击 Environment Variables，填写 Name 为 `VUE_APP_NETEASE_API_URL`，Value 为 `/api`，点击 Add。最后点击底部的 Deploy 就可以部署到
    Vercel 了。
 
+8. 个人部署在Vercel的地址：[Vercel.com](https://yes-play-music-git-master-qiaotonghuang.vercel.app)
+
 ## ⚙️ 部署到自己的服务器
 
 除了部署到 Vercel，你还可以部署到自己的服务器上
